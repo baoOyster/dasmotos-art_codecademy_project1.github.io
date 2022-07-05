@@ -1,0 +1,39 @@
+html{
+    font-family: Helvetica;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+header{
+    background-image: url("/asssets/pictures/pattern.jpeg");
+    text-align: center;
+    color: khaki;
+   
+}
+ header h1{
+    font-size: 100px;
+
+}
+
+section h1{
+    font-size: 32px;
+    color: white;
+}
+
+.mediumspringgreen{
+    background-color: mediumspringgreen;
+}
+
+.lightcoral{
+    background-color: lightcoral;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+
+.blue_text{
+    color: blue;
+}
